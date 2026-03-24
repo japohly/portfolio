@@ -35,8 +35,11 @@ Hardware Lab Development and Sustainment -  Maintained missile defense lab envir
 Responsible and accountable for leading a Force Recon team in high-risk, time-sensitive special operations missions. Planned and executed complex operations, briefed senior leadership, and coordinated multi-unit efforts in dynamic environments. Served as team leader, assistant team leader, radio operator, and tactical site exploitation team leader. Element leader for a quick reaction force supporting the Secret Service Special Operations Division.
 
 ## Education | Certifications
-CompTIA Security+ SYO-701 
+CompTIA Security+ SYO-701
+
 University of Alabama at Huntsville — BS in Computer Science, Concentration in Data Science. 
+
 Lee High School — 4.2 GPA, Valedictorian, Outstanding Math and Science Student.
+
 
 
