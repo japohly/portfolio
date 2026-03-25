@@ -3,16 +3,22 @@ Data Engineer | Force Recon Marine | Under-Caffienated Dad
 
 
 ## Summary
-I am a results-driven data engineer with hands-on experience creating and maintaining scalable data pipelines for enterprise cybersecurity operations. I have worked as both a data engineer, devops engineer, and hardware engineer supporting various government contracts. I have a Computer science degree with a concentration in data science. My experience is in writing software to support data operations, infrastructure integration, automation, and cross-functional collaboration. Before my engineering roles I was a Force Recon Marine. I am passionate about my family, love anything related to the outdoors, and am always looking for another cup of coffee!
+I am a results-driven data engineer with hands-on experience creating and maintaining scalable data pipelines for enterprise cybersecurity operations. I have worked as  a data engineer, devops engineer, and hardware engineer supporting various government contracts. I have a Computer Science degree with a concentration in Data Science. My experience is in writing software to support data operations, infrastructure integration, automation, and cross-functional collaboration. Before my engineering roles I was a Force Recon Marine. I am passionate about my family, love anything related to the outdoors, and am always looking for another cup of coffee!
 
 
 ## Skills
 Data Engineering (Python, Kafka, Nifi, SQL)
+
 DevOps  (Ansible, Terraform, GitLab, Jenkins)
+
 Software Integration (Python, Java, REST API, AWS)
+
 Formal leadership and communication training
+
 Experienced at planning and leading special operations missions
+
 Getting small, highly trained tactical teams briefly lost at night. 
+
 
 
 ## Experience
